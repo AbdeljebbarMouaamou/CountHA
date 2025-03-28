@@ -10,17 +10,7 @@ st.set_page_config(page_title="Vice City Countdown", layout="centered")
 st.markdown(
     """
     <style>
-    @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap');
 
-    body {
-        /* Background removed */
-        background: none;
-        color: #fff;
-        font-family: 'Orbitron', sans-serif;
-        margin: 0;
-        padding: 0;
-        overflow-x: hidden;
-    }
 
     .overlay {
         /* Removed background overlay */
